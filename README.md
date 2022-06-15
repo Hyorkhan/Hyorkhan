@@ -1,4 +1,4 @@
-- Hi, I’m @Hyophell
+- Hi, I’m @Hyorkhan
 - I'm interested in learning more about programming
 - I’m currently learning Python
 - I try to collaborate on projects or codes that reinforce my learning
